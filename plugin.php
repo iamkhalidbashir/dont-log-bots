@@ -1,11 +1,11 @@
 <?php
 /**
-Plugin Name: Don't Log Bots
-Plugin URI: https://github.com/YOURLS/dont-log-bots
+Plugin Name: Don't Log Bots (Custom)
+Plugin URI: https://github.com/iamkhalidbashir/dont-log-bots
 Description: Do not log some bots in stats
-Version: 1.3
-Author: Ozh, Leo Colomb, Suguru Hirahara
-Author URI: http://yourls.org
+Version: 1.4
+Author: Khalid Bashir, Ozh, Leo Colomb, Suguru Hirahara
+Author URI: https://github.com/iamkhalidbashir/dont-log-bots
 */
 
 // No direct call
