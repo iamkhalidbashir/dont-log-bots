@@ -231,6 +231,14 @@ function yp_dlb_is_bot() {
         
         // xenu
         'xenu link sleuth',
+
+        // Custom
+        'awariosmartbot',
+        'amazonbot',
+        'redditbot',
+        'redditbot',
+        'dataforseobot',
+        'mattermost-bot',
     );
         
     // Check if the current UA string contains a know bot string
